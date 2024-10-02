@@ -10,32 +10,48 @@
   <rect width="970px" height="550px" fill="#161b22" rx="15"/>
   <text x="30" y="30" fill="#c9d1d9">
     <tspan x="30" y="30">Surya Narayanaa</tspan>
-    <tspan x="30" y="40">——————</tspan>
-    <tspan x="30" y="70" class="keyColor">OS</tspan>
-    <tspan y="70" class="valueColor">: Windows 11 Home 23H2 </tspan>
-    <tspan x="30" y="90" class="keyColor">Uptime</tspan>
-    <tspan y="90" class="valueColor">: 19 years, 4 months, 6 days</tspan>
-    <tspan x="30" y="110" class="keyColor">Host</tspan>
-    <tspan y="110" class="valueColor">: PSG College of Technology</tspan>
-    <tspan y="110" class="commentColor"> #PSGCT</tspan>
-    <tspan x="30" y="130" class="keyColor">Kernel</tspan>
-    <tspan y="130" class="valueColor">: Artificial Intelligence and Machine Learning</tspan>
-    <tspan y="130" class="commentColor"> #AIML</tspan>
-    <tspan x="30" y="140">——————</tspan>
-    <tspan x="30" y="170" class="keyColor">IDE</tspan>
-    <tspan y="170" class="valueColor">:  VSCode NeoVim </tspan>
-    <tspan x="30" y="190" class="keyColor">Languages. Programming</tspan>
-    <tspan y="190" class="valueColor">:  Python, Java, C, JavaScript</tspan>
-    <tspan x="30" y="210" class="keyColor">Languages. Computer</tspan>
-    <tspan y="210" class="valueColor">: HTML, CSS, JSON, LaTeX, </tspan>
-    <tspan x="30" y="230" class="keyColor">Frameworks</tspan>
-    <tspan y="230" class="valueColor">: Pytorch, TensorFlow, StableBaseline, Node.js, Express.js, Flask, Django, FastAPI</tspan>
-    <tspan x="30" y="250" class="keyColor">Languages. Real</tspan>
-    <tspan y="250" class="valueColor">: English, German, Tamil, Hindi</tspan>
-    <tspan x="30" y="260">——————</tspan>
-    <tspan x="30" y="290" class="keyColor">GitHub Stats</tspan>
-    <tspan x="30" y="310" class="keyColor"> Contributions: 1</tspan>
-    <tspan x="30" y="330" class="keyColor"> Total Commits: 164</tspan>
-    <tspan x="30" y="350" class="valueColor"> Total Pull Requests: 9</tspan>
+    <tspan x="30" y="43">——————</tspan>
+    <tspan x="30" y="73" class="keyColor">OS</tspan>
+    <tspan y="73" class="valueColor">: Windows 11 Home 23H2 </tspan>
+    <tspan x="30" y="93" class="keyColor">Uptime</tspan>
+    <tspan y="93" class="valueColor">: 19 years, 4 months, 6 days</tspan>
+    <tspan x="30" y="113" class="keyColor">Host</tspan>
+    <tspan y="113" class="valueColor">: PSG College of Technology</tspan>
+    <tspan y="113" class="commentColor"> #PSGCT</tspan>
+    <tspan x="30" y="133" class="keyColor">Kernel</tspan>
+    <tspan y="133" class="valueColor">: Artificial Intelligence and Machine Learning</tspan>
+    <tspan y="133" class="commentColor"> #AIML</tspan>
+    <tspan x="30" y="146">——————</tspan>
+    <tspan x="30" y="176" class="keyColor">IDE</tspan>
+    <tspan y="176" class="valueColor">:  VSCode NeoVim </tspan>
+    <tspan x="30" y="196" class="keyColor">Languages. Programming</tspan>
+    <tspan y="196" class="valueColor">:  Python, Java, C, JavaScript</tspan>
+    <tspan x="30" y="216" class="keyColor">Languages. Computer</tspan>
+    <tspan y="216" class="valueColor">: HTML, CSS, JSON, LaTeX, </tspan>
+    <tspan x="30" y="236" class="keyColor">Frameworks</tspan>
+    <tspan y="236" class="valueColor">: Pytorch, TensorFlow, StableBaseline, Node.js, Express.js, Flask, Django, FastAPI</tspan>
+    <tspan x="30" y="256" class="keyColor">Languages. Real</tspan>
+    <tspan y="256" class="valueColor">: English, German, Tamil, Hindi</tspan>
+    <tspan x="30" y="269">——————</tspan>
+    <tspan x="30" y="299" class="keyColor">Hobbies. Software</tspan>
+    <tspan class="valueColor">: Blender, Resolve</tspan>
+    <tspan x="30" y="319" class="keyColor">Hobbies. Other</tspan>
+    <tspan class="valueColor">: Movies, Gaming, Musi, Photography</tspan>
+    <tspan x="30" y="332">——————</tspan>
+    <tspan x="30" y="362" class="keyColor">Contact</tspan>
+    <tspan x="30" y="382" class="keyColor">Email</tspan>
+    <tspan class="valueColor">: thangarajsurya001@gmail.com</tspan>
+    <tspan x="30" y="402" class="keyColor">LinkedIn</tspan>
+    <tspan class="valueColor">: suryanarayanaa</tspan>
+    <tspan x="30" y="422" class="keyColor">Github</tspan>
+    <tspan class="valueColor">: SuryaNarayanaa</tspan>
+    <tspan x="30" y="435">——————</tspan>
+    <tspan x="30" y="465" class="keyColor">GitHub Stats</tspan>
+    <tspan x="30" y="485" class="keyColor"> Contributions</tspan>
+    <tspan y="485" class="valueColor">: 1</tspan>
+    <tspan x="30" y="505" class="keyColor"> Total Commits</tspan>
+    <tspan y="505" class="valueColor">: 165</tspan>
+    <tspan x="30" y="525" class="keyColor"> Total Pull Requests</tspan>
+    <tspan y="525" class="valueColor">: 9</tspan>
   </text>
 </svg>
