@@ -1,24 +1,76 @@
-# 💫 About Me:
-🔭 Currently building a RAG system with custom PDF Uploads.<br>👯 Wish to Collaborate on AI and DL stuffs.<br>🌱 I’m currently learning DL, AI, DSA<br>
+# 🌟 Welcome to My GitHub Profile! 🌟
 
+![Header Image](https://yourimageurl.com)  <!-- Replace with your header image URL -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryanarayanaant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanarayanaa) 
+### Hi there! I'm [Your Name] 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=surya54101q&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=surya54101q&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya54101q&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=surya54101q&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=surya54101q&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+I'm an AI, Machine Learning (ML), and Deep Learning (DL) developer with a passion for creating intelligent systems. I also specialize in web backend development, crafting efficient and scalable applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=surya54101q&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)  <!-- Replace 'yourusername' with your GitHub username -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical)  <!-- Replace 'yourusername' with your GitHub username -->
+
+---
+
+## 🚀 Projects
+
+### [Project Name](https://github.com/yourusername/yourproject)  
+**Description**: A brief description of your project and its features.
+
+- 🌟 Feature 1
+- 🌟 Feature 2
+- 🌟 Feature 3
+
+---
+
+### [Project Name](https://github.com/yourusername/yourproject)  
+**Description**: A brief description of your project and its features.
+
+- 🌟 Feature 1
+- 🌟 Feature 2
+- 🌟 Feature 3
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌍 I'm based in [Your Location].
+- 🎓 I have a background in [Your Degree/Field].
+- 📚 I love learning new technologies and improving my skills.
+- 💬 Feel free to reach out to me for collaborations or discussions!
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Website/Blog](https://yourwebsite.com)
+
+---
+
+## 💻 Fun Facts
+
+- 🎮 I enjoy gaming in my free time.
+- 📖 I love reading books on technology and science fiction.
+- 🌱 I'm currently learning [New Technology/Framework].
+
+---
+
+![Footer Image](https://yourimageurl.com) <!-- Replace with your footer image URL -->
