@@ -2,7 +2,7 @@
 
 ![Header Image](https://yourimageurl.com)  <!-- Replace with your header image URL -->
 
-### Hi there! I'm [Your Name] 👋
+### Hi there! I'm Surya👋
 
 I'm an AI, Machine Learning (ML), and Deep Learning (DL) developer with a passion for creating intelligent systems. I also specialize in web backend development, crafting efficient and scalable applications.
 
@@ -39,7 +39,7 @@ I'm an AI, Machine Learning (ML), and Deep Learning (DL) developer with a passio
 
 ---
 
-### [Project Name](https://github.com/yourusername/yourproject)  
+### TranscribeX(https://github.com/yesh-045/TranscribeX-with-summarization)  
 **Description**: A brief description of your project and its features.
 
 - 🌟 Feature 1
