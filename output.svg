@@ -36,7 +36,7 @@
     <tspan x="30" y="299" class="keyColor">Hobbies. Software</tspan>
     <tspan class="valueColor">: Blender, Resolve</tspan>
     <tspan x="30" y="319" class="keyColor">Hobbies. Other</tspan>
-    <tspan class="valueColor">: Movies, Gaming, Musi, Photography</tspan>
+    <tspan class="valueColor">: Movies, Gaming, Music, Photography</tspan>
     <tspan x="30" y="332">——————</tspan>
     <tspan x="30" y="362" class="keyColor">Contact</tspan>
     <tspan x="30" y="382" class="keyColor">Email</tspan>
@@ -50,7 +50,7 @@
     <tspan x="30" y="485" class="keyColor"> Contributions</tspan>
     <tspan y="485" class="valueColor">: 1</tspan>
     <tspan x="30" y="505" class="keyColor"> Total Commits</tspan>
-    <tspan y="505" class="valueColor">: 165</tspan>
+    <tspan y="505" class="valueColor">: 166</tspan>
     <tspan x="30" y="525" class="keyColor"> Total Pull Requests</tspan>
     <tspan y="525" class="valueColor">: 9</tspan>
   </text>
