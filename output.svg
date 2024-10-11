@@ -14,7 +14,7 @@
     <tspan x="30" y="73" class="keyColor">OS</tspan>
     <tspan y="73" class="valueColor">: Windows 11 Home 23H2 </tspan>
     <tspan x="30" y="93" class="keyColor">Uptime</tspan>
-    <tspan y="93" class="valueColor">: 19 years, 4 months, 6 days</tspan>
+    <tspan y="93" class="valueColor">: 19 years, 4 months, 15 days</tspan>
     <tspan x="30" y="113" class="keyColor">Host</tspan>
     <tspan y="113" class="valueColor">: PSG College of Technology</tspan>
     <tspan y="113" class="commentColor"> #PSGCT</tspan>
@@ -50,7 +50,7 @@
     <tspan x="30" y="485" class="keyColor"> Contributions</tspan>
     <tspan y="485" class="valueColor">: 1</tspan>
     <tspan x="30" y="505" class="keyColor"> Total Commits</tspan>
-    <tspan y="505" class="valueColor">: 166</tspan>
+    <tspan y="505" class="valueColor">: 167</tspan>
     <tspan x="30" y="525" class="keyColor"> Total Pull Requests</tspan>
     <tspan y="525" class="valueColor">: 9</tspan>
   </text>
