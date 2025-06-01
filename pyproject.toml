@@ -1,0 +1,10 @@
+[project]
+name = "suryanarayanaa"
+version = "0.1.0"
+description = "Github profile"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lxml>=5.4.0",
+    "requests>=2.32.3",
+]
