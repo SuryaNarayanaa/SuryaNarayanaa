@@ -45,6 +45,15 @@ E.SubElement(r,t('use'),{'href':'#scene'})
 for i,(scale,tx,ty) in enumerate(((1.35,50,205),(1.08,-90,430))):
  matrix=f'translate({tx} {ty}) scale({scale})'
  mask=copy.deepcopy(original.find(f'.//*[@id="handwriting-{i}"]'))
+ # Keep every pen on the same ten-second clock, including its initial wait.
+ # Repeating each original short stroke would scramble the writing order.
+ for animation in mask.findall('.//'+t('animate')):
+  start=float(animation.get('begin').removesuffix('s'))
+  end=start+float(animation.get('dur').removesuffix('s'))
+  times=[0.0]+([start/10] if start else [])+[end/10,1.0]
+  values=['1']+(['1'] if start else [])+['0','0']
+  animation.attrib.clear()
+  animation.attrib.update({'attributeName':'stroke-dashoffset','begin':'0s','dur':'10s','repeatCount':'indefinite','keyTimes':';'.join(f'{v:.7f}' for v in times),'values':';'.join(values),'calcMode':'linear'})
  mask.set('x','0');mask.set('y','0');mask.set('width',str(W));mask.set('height',str(H))
  mask.find(t('g')).set('transform',matrix);d.append(mask)
  clip=copy.deepcopy(original.find(f'.//*[@id="lettering-{i}"]'))
