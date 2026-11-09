@@ -1,8 +1,34 @@
-/.env
+# Generated browser captures and verification reports
+/verification/
+
+# Existing local profile-generation inputs and outputs
 /requirements.txt
 /script.py
 /template.svg
 /profile.svg
 /cleaned_text.txt
 /remove_space.py
-/venv
+
+# Python caches and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment settings
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.log
